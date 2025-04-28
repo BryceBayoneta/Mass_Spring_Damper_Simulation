@@ -1,4 +1,4 @@
-This is a MATLAB simulation which finds the properties of a system involving a mass, spring, and damper. 
+This is a MATLAB simulation which finds the properties of a system involving a mass, spring, and damper.   
 This project uses MATLAB to solve differential equations in order to analyze and visualize behaviors
 
 Features
