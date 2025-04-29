@@ -82,5 +82,6 @@ if ~isnan(tStop)
     fprintf('Stopping Time: %f s\n',tStop)
 else
     fprintf('Mass didn''t stop during simulation')
+end
 fprintf('Oscillation Frequency: %f Hz\n', oFreq)
 fprintf('Energy Lost: %f J\n', eChange)
